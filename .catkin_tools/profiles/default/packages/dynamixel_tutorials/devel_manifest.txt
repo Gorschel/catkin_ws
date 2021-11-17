@@ -1,5 +1,0 @@
-dynamixel_motor/dynamixel_tutorials
-/home/georg/catkin_ws/devel/.private/dynamixel_tutorials/cmake.lock /home/georg/catkin_ws/devel/./cmake.lock
-/home/georg/catkin_ws/devel/.private/dynamixel_tutorials/lib/pkgconfig/dynamixel_tutorials.pc /home/georg/catkin_ws/devel/lib/pkgconfig/dynamixel_tutorials.pc
-/home/georg/catkin_ws/devel/.private/dynamixel_tutorials/share/dynamixel_tutorials/cmake/dynamixel_tutorialsConfig.cmake /home/georg/catkin_ws/devel/share/dynamixel_tutorials/cmake/dynamixel_tutorialsConfig.cmake
-/home/georg/catkin_ws/devel/.private/dynamixel_tutorials/share/dynamixel_tutorials/cmake/dynamixel_tutorialsConfig-version.cmake /home/georg/catkin_ws/devel/share/dynamixel_tutorials/cmake/dynamixel_tutorialsConfig-version.cmake

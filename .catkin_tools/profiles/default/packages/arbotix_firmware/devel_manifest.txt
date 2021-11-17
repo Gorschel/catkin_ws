@@ -1,5 +1,0 @@
-arbotix_ros/arbotix_firmware
-/home/georg/catkin_ws/devel/.private/arbotix_firmware/cmake.lock /home/georg/catkin_ws/devel/./cmake.lock
-/home/georg/catkin_ws/devel/.private/arbotix_firmware/lib/pkgconfig/arbotix_firmware.pc /home/georg/catkin_ws/devel/lib/pkgconfig/arbotix_firmware.pc
-/home/georg/catkin_ws/devel/.private/arbotix_firmware/share/arbotix_firmware/cmake/arbotix_firmwareConfig.cmake /home/georg/catkin_ws/devel/share/arbotix_firmware/cmake/arbotix_firmwareConfig.cmake
-/home/georg/catkin_ws/devel/.private/arbotix_firmware/share/arbotix_firmware/cmake/arbotix_firmwareConfig-version.cmake /home/georg/catkin_ws/devel/share/arbotix_firmware/cmake/arbotix_firmwareConfig-version.cmake

@@ -1,5 +1,0 @@
-phantomx_reactor_arm/phantomx_reactor_arm_controller
-/home/georg/catkin_ws/devel/.private/phantomx_reactor_arm_controller/cmake.lock /home/georg/catkin_ws/devel/./cmake.lock
-/home/georg/catkin_ws/devel/.private/phantomx_reactor_arm_controller/lib/pkgconfig/phantomx_reactor_arm_controller.pc /home/georg/catkin_ws/devel/lib/pkgconfig/phantomx_reactor_arm_controller.pc
-/home/georg/catkin_ws/devel/.private/phantomx_reactor_arm_controller/share/phantomx_reactor_arm_controller/cmake/phantomx_reactor_arm_controllerConfig.cmake /home/georg/catkin_ws/devel/share/phantomx_reactor_arm_controller/cmake/phantomx_reactor_arm_controllerConfig.cmake
-/home/georg/catkin_ws/devel/.private/phantomx_reactor_arm_controller/share/phantomx_reactor_arm_controller/cmake/phantomx_reactor_arm_controllerConfig-version.cmake /home/georg/catkin_ws/devel/share/phantomx_reactor_arm_controller/cmake/phantomx_reactor_arm_controllerConfig-version.cmake

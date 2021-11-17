@@ -1,5 +1,0 @@
-arbotix_ros/arbotix_controllers
-/home/georg/catkin_ws/devel/.private/arbotix_controllers/cmake.lock /home/georg/catkin_ws/devel/./cmake.lock
-/home/georg/catkin_ws/devel/.private/arbotix_controllers/lib/pkgconfig/arbotix_controllers.pc /home/georg/catkin_ws/devel/lib/pkgconfig/arbotix_controllers.pc
-/home/georg/catkin_ws/devel/.private/arbotix_controllers/share/arbotix_controllers/cmake/arbotix_controllersConfig-version.cmake /home/georg/catkin_ws/devel/share/arbotix_controllers/cmake/arbotix_controllersConfig-version.cmake
-/home/georg/catkin_ws/devel/.private/arbotix_controllers/share/arbotix_controllers/cmake/arbotix_controllersConfig.cmake /home/georg/catkin_ws/devel/share/arbotix_controllers/cmake/arbotix_controllersConfig.cmake

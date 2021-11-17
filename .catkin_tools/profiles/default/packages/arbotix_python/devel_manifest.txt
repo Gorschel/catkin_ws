@@ -1,9 +1,0 @@
-arbotix_ros/arbotix_python
-/home/georg/catkin_ws/devel/.private/arbotix_python/cmake.lock /home/georg/catkin_ws/devel/./cmake.lock
-/home/georg/catkin_ws/devel/.private/arbotix_python/bin/arbotix_terminal /home/georg/catkin_ws/devel/bin/arbotix_terminal
-/home/georg/catkin_ws/devel/.private/arbotix_python/bin/cmake.lock /home/georg/catkin_ws/devel/bin/cmake.lock
-/home/georg/catkin_ws/devel/.private/arbotix_python/bin/arbotix_gui /home/georg/catkin_ws/devel/bin/arbotix_gui
-/home/georg/catkin_ws/devel/.private/arbotix_python/lib/python2.7/dist-packages/arbotix_python/__init__.py /home/georg/catkin_ws/devel/lib/python2.7/dist-packages/arbotix_python/__init__.py
-/home/georg/catkin_ws/devel/.private/arbotix_python/lib/pkgconfig/arbotix_python.pc /home/georg/catkin_ws/devel/lib/pkgconfig/arbotix_python.pc
-/home/georg/catkin_ws/devel/.private/arbotix_python/share/arbotix_python/cmake/arbotix_pythonConfig-version.cmake /home/georg/catkin_ws/devel/share/arbotix_python/cmake/arbotix_pythonConfig-version.cmake
-/home/georg/catkin_ws/devel/.private/arbotix_python/share/arbotix_python/cmake/arbotix_pythonConfig.cmake /home/georg/catkin_ws/devel/share/arbotix_python/cmake/arbotix_pythonConfig.cmake
